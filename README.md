@@ -4,9 +4,10 @@
 
 **Create a visual representation of the data from [Diversity in Tech website](https://informationisbeautiful.net/visualizations/diversity-in-tech/) using a Bar Graph Generator Program**
 
-_Learning Objective: demonstrate an understanding of looping/ repetition by completing code to populate a bar graph and display with ASCII art to the console._
+## Learning Objective
+- Demonstrate an understanding of looping/ repetition by completing code to populate a bar graph and display with ASCII art to the console.
 
-# **Lab Prompt:**
+## Program Description
 
 In recreating the website above, a student took the **_top-down approach_** of building out the big picture of the program and stubbing out the methods that are doing the detailed work. They were able to complete the driver, the `main` method that runs the program, and organized everything related to creating the graphs under there `BarGraph` file/class.
 
@@ -14,13 +15,13 @@ The final version should look like:
 ![screenshot of working solution/final version](diversityInTechSolution.png)
  
 
-# **Lab Instructions:**
+## Specifications
 
 Complete the `getHorizontal` method so that it creates a horizontal bar graph, using the constants in `BarGraph` file/class. The method is called multiple times in the `main` method, which should look when complete like the screenshot above.
 
 In the code, you'll notice that there are 8 block characters, meaning we're working with factors of 8. This is because those characters are precisely blocks that have varying widths, 8 total.
 
-# **Hacker Challenge (note this will break the tests above):**
+# Hacker Challenge (note this will break the tests)
 
 - Add colors to the bar graphs! Before proceeding, think of a couple of locations that it could be placed in (I can think of at least 2!) and what are the advantages/disadvantages of each. Which is the most flexible, to change the colors for each bar in the screenshot above? Which is the easiest for you to add in?
 - Create a new `getHorizontal` method that has an additional parameter, a boolean, that controls whether the integer value shows up next to the bar graph or not (you will need to change the method calls in your main method to call this specific method to test it!)
