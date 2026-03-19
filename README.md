@@ -12,6 +12,7 @@
 In recreating the website above, a student took the **_top-down approach_** of building out the big picture of the program and stubbing out the methods that are doing the detailed work. They were able to complete the driver, the `main` method that runs the program, and organized everything related to creating the graphs under there `BarGraph` file/class.
 
 The final version should look like:
+
 ![screenshot of working solution/final version](diversityInTechSolution.png)
  
 
