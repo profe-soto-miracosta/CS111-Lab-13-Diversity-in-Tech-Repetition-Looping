@@ -4,7 +4,7 @@
 
 **Create a visual representation of the data from [Diversity in Tech website](https://informationisbeautiful.net/visualizations/diversity-in-tech/) using a Bar Graph Generator Program**
 
-## Learning Objective
+## Learning Objectives
 - Demonstrate an understanding of looping/ repetition by completing code to populate a bar graph and display with ASCII art to the console.
 
 ## Program Description
