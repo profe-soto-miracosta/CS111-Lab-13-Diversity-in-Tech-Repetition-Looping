@@ -1,8 +1,7 @@
-// PARTNER NAME: 
-// PARTNER NAME: 
-// CS111 SECTION #: 
-// DATE: 
-
+/**
+ * Your program description here
+ * @author Your name here
+ */
 public class Main
 {
 	//CONSTANT VARIABLES
